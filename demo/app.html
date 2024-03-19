@@ -1,0 +1,7 @@
+<template>
+  <require from="aurelia-slot-machine"></require>
+
+  <slot-machine reels.bind="reels" options.bind="options" callback.bind="callback" play.bind="play"></slot-machine>
+
+  <button id="play-button" click.trigger="playEvent()">Play</button>
+</template>

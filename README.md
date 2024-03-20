@@ -27,6 +27,19 @@ Add to an existing [Aurelia](https://aurelia.io) project using [YARN](https://ya
 
 ## Usage
 
+### `main.js`
+
+```javascript
+const {PLATFORM} = 'aurelia-framework';
+
+export async function configure(aurelia) {
+  aurelia.use
+    .standardConfiguration()
+    .globalResources([
+      PLATFORM.moduleName('aurelia-slot-machine-gen')
+    ]);
+```
+
 ### Model
 
 ```javascript

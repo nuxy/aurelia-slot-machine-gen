@@ -98,8 +98,6 @@ export class App {
 
 ```html
 <template>
-  <require from="aurelia-slot-machine-gen"></require> <!-- or '../dist/aurelia-slot-machine' -->
-
   <slot-machine reels.bind="reels" play.bind="play"></slot-machine>
 </template>
 ```

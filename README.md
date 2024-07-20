@@ -1,4 +1,6 @@
-# Aurelia Slot Machine Generator [![npm version](https://badge.fury.io/js/aurelia-slot-machine-gen.svg)](https://badge.fury.io/js/aurelia-slot-machine-gen) [![](https://img.shields.io/npm/dm/aurelia-slot-machine-gen)](https://www.npmjs.com/package/aurelia-slot-machine-gen)
+# Aurelia Slot Machine Generator
+
+[![npm version](https://badge.fury.io/js/aurelia-slot-machine-gen.svg)](https://badge.fury.io/js/aurelia-slot-machine-gen) [![](https://img.shields.io/npm/dm/aurelia-slot-machine-gen)](https://www.npmjs.com/package/aurelia-slot-machine-gen) [![Install size](https://packagephobia.com/badge?p=aurelia-slot-machine-gen)](https://packagephobia.com/result?p=aurelia-slot-machine-gen) [![](https://img.shields.io/github/v/release/nuxy/aurelia-slot-machine-gen)](https://github.com/nuxy/aurelia-slot-machine-gen/releases)
 
 Create an extremely biased, web-based slot machine game.
 
